@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetRateLimiterExample", "AspNetRateLimiterExample\AspNetRateLimiterExample.csproj", "{7C9E3F6F-9063-4A3C-852B-18F18F8BB514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetRateLimiterTestClient", "AspNetRateLimiterTestClient\AspNetRateLimiterTestClient.csproj", "{696A3909-E98A-44D9-B5B1-AD23A2F5C1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C9E3F6F-9063-4A3C-852B-18F18F8BB514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9E3F6F-9063-4A3C-852B-18F18F8BB514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9E3F6F-9063-4A3C-852B-18F18F8BB514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9E3F6F-9063-4A3C-852B-18F18F8BB514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696A3909-E98A-44D9-B5B1-AD23A2F5C1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696A3909-E98A-44D9-B5B1-AD23A2F5C1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696A3909-E98A-44D9-B5B1-AD23A2F5C1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696A3909-E98A-44D9-B5B1-AD23A2F5C1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0D5941-8F20-4DA7-95CA-B0C7444A16E3}
+	EndGlobalSection
+EndGlobal
